@@ -59,7 +59,6 @@ Dev Full Stack apaixonado por criar soluções inovadoras e eficientes. Trabalho
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arthur-correa021)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kkbarbosa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://kkbarbosa.github.io/portfolioAtt/)
 
 ## 🎯 Áreas de Interesse
 
@@ -68,21 +67,15 @@ Dev Full Stack apaixonado por criar soluções inovadoras e eficientes. Trabalho
 - 🗄️ Banco de Dados e Modelagem SQL
 - 🎨 UI/UX Design e Frontend
 - 🤖 Automação e Scripts com Python
-- ⚙️ Backend com Node.js e C#
+- ⚙️ Backend com Node.js / C# / Java
 
 ## 🌟 Projetos em Destaque
 
-### 🚀 [Sistema de Gestão com JavaScript](https://github.com/kkbarbosa/kkbarbosa)
+### 🚀 [Sistema de Gerenciamento de Cinema - CinneVile](https://github.com/kkbarbosa/CinneVille)
+> Repositório do sistema CinneVile, sistema de gerenciamento de cinemas
+
+### 💡 [Sistema de Gestão com JavaScript](https://github.com/kkbarbosa/kkbarbosa)
 > Sistema completo de gestão com módulos de clientes, fornecedores, produtos e histórico de compras
-
-### 💡 [Aprendizado Git & GitHub](https://github.com/kkbarbosa/aprendizado-git-github)
-> Repositório de estudos sobre versionamento e controle de código
-
-### 🔧 [Tabelas HTML](https://github.com/kkbarbosa/Tabelas-HTML)
-> Projetos práticos explorando estruturação de dados com tabelas em HTML
-
-### 🎨 [Listas HTML](https://github.com/kkbarbosa/Listas-ordenadas-e-nao-ordenadas)
-> Estudos sobre listas ordenadas e não ordenadas em HTML
 
 ## 📈 Contribuições
 
